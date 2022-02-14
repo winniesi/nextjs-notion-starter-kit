@@ -8,17 +8,17 @@ module.exports = {
 
   // basic site info (required)
   name: 'winnie blog',
-  domain: 'winniesi.com',
+  domain: 'blog.winniesi.com',
   author: 'winniesi',
 
   // open graph metadata (optional)
   description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  socialImageTitle: '',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
   twitter: 'codemorningsir',
-  github: 'winniesi',
+  // github: 'winniesi',
   // linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
