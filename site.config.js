@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '一些记录',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'winnie blog',
+  domain: 'winniesi.com',
+  author: 'winniesi',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -18,8 +18,8 @@ module.exports = {
 
   // social usernames (optional)
   twitter: 'codemorningsir',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  github: 'winniesi',
+  // linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
